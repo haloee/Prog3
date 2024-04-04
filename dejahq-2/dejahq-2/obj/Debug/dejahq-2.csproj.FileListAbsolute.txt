@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\dejahq-2\dejahq-2\bin\Debug\dejahq-2.exe.config
+C:\Users\Dell\source\repos\dejahq-2\dejahq-2\bin\Debug\dejahq-2.exe
+C:\Users\Dell\source\repos\dejahq-2\dejahq-2\bin\Debug\dejahq-2.pdb
+C:\Users\Dell\source\repos\dejahq-2\dejahq-2\obj\Debug\dejahq-2.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\dejahq-2\dejahq-2\obj\Debug\dejahq_2.Form1.resources
+C:\Users\Dell\source\repos\dejahq-2\dejahq-2\obj\Debug\dejahq_2.Properties.Resources.resources
+C:\Users\Dell\source\repos\dejahq-2\dejahq-2\obj\Debug\dejahq-2.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\dejahq-2\dejahq-2\obj\Debug\dejahq-2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\dejahq-2\dejahq-2\obj\Debug\dejahq-2.exe
+C:\Users\Dell\source\repos\dejahq-2\dejahq-2\obj\Debug\dejahq-2.pdb
